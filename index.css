@@ -1,13 +1,11 @@
- .u-section-1 {
-  background-image: none;
-}
-
 .u-section-1 .u-sheet-1 {
-  min-height: 1037px;
+  min-height: 862px;
 }
 
-.u-section-1 .embed-responsive-2 {
-  position: absolute;
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 574px;
+  }
 } .u-section-2 {
   background-image: none;
 }
@@ -47,11 +45,11 @@
 
 @media (max-width: 575px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 102px;
+    min-height: 263px;
   }
 
   .u-section-2 .u-social-icons-1 {
-    margin-top: 30px;
-    margin-bottom: 30px;
+    margin-top: 24px;
+    margin-bottom: 60px;
   }
 }
