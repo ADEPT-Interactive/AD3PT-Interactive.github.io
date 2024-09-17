@@ -61,4 +61,18 @@
     font-size: 1.25rem;
     width: 340px;
   }
+}.u-section-2 .u-sheet-1 {
+  min-height: 28px;
+}
+
+.u-section-2 .u-text-1 {
+  font-size: 0.75rem;
+  margin: 0 auto;
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-text-1 {
+    margin-top: 60px;
+    margin-bottom: 60px;
+  }
 }
