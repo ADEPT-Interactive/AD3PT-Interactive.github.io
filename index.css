@@ -6,68 +6,9 @@
   .u-section-1 .u-sheet-1 {
     min-height: 574px;
   }
-} .u-section-2 {
-  background-image: none;
-}
-
-.u-section-2 .u-sheet-1 {
-  min-height: 142px;
-}
-
-.u-section-2 .u-social-icons-1 {
-  height: 43px;
-  min-height: 16px;
-  width: 295px;
-  min-width: 160px;
-  margin: 50px auto;
-}
-
-.u-section-2 .u-icon-1 {
-  height: 60px;
-}
-
-.u-section-2 .u-icon-2 {
-  height: 60px;
-}
-
-.u-section-2 .u-icon-3 {
-  height: 60px;
-}
-
-.u-section-2 .u-icon-4 {
-  height: 60px;
-  color: rgb(255, 69, 0) !important;
-}
-
-.u-section-2 .u-icon-5 {
-  height: 60px;
-}
-
-@media (max-width: 575px) {
-  .u-section-2 .u-sheet-1 {
-    min-height: 263px;
-  }
-
-  .u-section-2 .u-social-icons-1 {
-    margin-top: 24px;
-    margin-bottom: 60px;
-  }
-} .u-section-3 {
-  background-image: none;
-}
-
-.u-section-3 .u-sheet-1 {
-  min-height: 28px;
-}
-
-.u-section-3 .u-text-1 {
-  font-size: 0.75rem;
-  margin: 0 auto;
-}
-
-@media (max-width: 767px) {
-  .u-section-3 .u-text-1 {
-    margin-top: 60px;
-    margin-bottom: 60px;
-  }
+}@font-face {
+  font-family: 'Quantum';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/Quantum.otf);
 }

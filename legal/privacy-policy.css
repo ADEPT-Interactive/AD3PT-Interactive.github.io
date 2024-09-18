@@ -3,16 +3,20 @@
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 297px;
+  min-height: 290px;
 }
 
 .u-section-1 .u-text-1 {
-  margin: 49px auto 0 107px;
+  margin: 42px auto 0 107px;
 }
 
 .u-section-1 .u-btn-1 {
   background-image: none;
   padding: 0;
+}
+
+.u-section-1 .u-icon-1 {
+  vertical-align: 0px;
 }
 
 .u-section-1 .u-text-2 {
@@ -30,8 +34,28 @@
 }
 
 @media (max-width: 991px) {
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: 47px;
+    margin-left: 25px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: auto;
+    margin-top: 27px;
+    margin-left: 25px;
+  }
+
   .u-section-1 .u-line-1 {
     width: 720px;
+    margin-top: 27px;
+  }
+
+  .u-section-1 .u-text-3 {
+    width: auto;
+    margin-top: 27px;
+    margin-bottom: 40px;
+    margin-left: 25px;
   }
 }
 
@@ -42,8 +66,25 @@
 }
 
 @media (max-width: 575px) {
+  .u-section-1 .u-text-1 {
+    margin-top: 48px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 28px;
+    margin-left: 0;
+  }
+
   .u-section-1 .u-line-1 {
     width: 340px;
+    margin-top: 25px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-top: 25px;
+    margin-bottom: 60px;
+    margin-left: 0;
   }
 } .u-section-2 {
   background-image: none;
@@ -60,12 +101,9 @@
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
   margin: 40px 0 60px;
-}.u-section-3 .u-sheet-1 {
-  min-height: 22px;
-}
-
-.u-section-3 .u-text-1 {
-  font-size: 0.75rem;
-  width: 197px;
-  margin: 2px auto 1px;
+}@font-face {
+  font-family: 'Quantum';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/Quantum.otf);
 }
