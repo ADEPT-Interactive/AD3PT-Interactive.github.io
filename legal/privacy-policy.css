@@ -101,9 +101,4 @@
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
   margin: 40px 0 60px;
-}@font-face {
-  font-family: 'Quantum';
-  font-style: normal;
-  font-weight: 400;
-  src: url(fonts/Quantum.otf);
 }

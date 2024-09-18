@@ -61,9 +61,4 @@
     font-size: 1.25rem;
     width: 340px;
   }
-}@font-face {
-  font-family: 'Quantum';
-  font-style: normal;
-  font-weight: 400;
-  src: url(fonts/Quantum.otf);
 }
