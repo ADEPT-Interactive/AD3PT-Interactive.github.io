@@ -2,7 +2,6 @@
   background-image: url("../../images/Screenshot2024-11-24233645.png");
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: 50% 50%;
 }
 
 .u-section-1 .u-sheet-1 {
@@ -21,6 +20,10 @@
 }
 
 @media (max-width: 1199px) {
+   .u-section-1 {
+    background-position: 50% 50%;
+  }
+
   .u-section-1 .u-sheet-1 {
     min-height: 379px;
   }
@@ -516,7 +519,6 @@
   background-image: url("../../images/Screenshot2024-11-24233645.png");
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: 50% 50%;
 }
 
 .u-section-6 .u-sheet-1 {
@@ -524,6 +526,10 @@
 }
 
 @media (max-width: 1199px) {
+   .u-section-6 {
+    background-position: 50% 50%;
+  }
+
   .u-section-6 .u-sheet-1 {
     min-height: 84px;
   }
