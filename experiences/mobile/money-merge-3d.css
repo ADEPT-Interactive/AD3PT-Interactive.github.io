@@ -256,6 +256,7 @@
 
 .u-section-3 .u-gallery-inner-1 {
   grid-template-columns: repeat(1, auto);
+  --gap: 0px;
 }
 
 .u-section-3 .u-gallery-item-1 {
@@ -325,6 +326,7 @@
 
 .u-section-3 .u-gallery-inner-2 {
   grid-template-columns: repeat(3, auto);
+  --gap: 0px;
 }
 
 .u-section-3 .u-gallery-item-6 {
